@@ -1,0 +1,19 @@
+#parent {
+background-color: rgb(251, 234, 139); 
+height: 500px;
+width: 500px; 
+position:relative;
+overflow: auto; 
+
+.red {
+    background-color: rgb(255, 0, 0);
+    height: 100px;
+    width: 100px;
+    position:sticky 
+    top:0px; 
+    left: 50 px;
+    
+.blue {
+    background-color: rgb(27, 81, 198);
+        height: 100px;
+        width: 100px;    -
